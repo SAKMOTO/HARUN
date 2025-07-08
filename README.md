@@ -52,8 +52,11 @@
 - ☁️ **Cloud Computing**, **Network Design**, Network Admin
 
 ---
+#### **still learning **
+#8E75B2
 
-### 📈 GitHub Stats
+
+#### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Langs">
