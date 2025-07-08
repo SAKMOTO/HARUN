@@ -1,7 +1,7 @@
 # HARUN
 
 <h1 align="center">
- ### Hi 👋, I'm HARUN
+  Hi 👋, I'm HARUN
 </h1>
 
 <h3 align="center">📱 Android & Kernel Developer | 💻 AI/ML Learner | 🎓 Student at Andhra Polytechnic</h3>
@@ -11,8 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=8E75B2&center=true&vCenter=true&width=550&height=60&lines=HARUN;Android+%7C+Kernel+Developer;ROM+Porter+%7C+System+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0000FF&center=true&vCenter=true&width=550&height=60&lines=HARUN;Android+%7C+Kernel+Developer;ROM+Porter+%7C+System+Programmer" alt="Typing SVG" />
 </p>
+
 
 
 
