@@ -1,8 +1,10 @@
 # HARUN
 
-<h1 align="center">Hi 👋, I'm
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0000FF&center=true&vleft=true&width=500&height=60&lines=Harun" alt="Typing SVG" />
+<h1 align="center">
+  Hi 👋, I'm&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0000FF&width=200&lines=Harun" alt="Typing SVG" />
 </h1>
+
 <h3 align="center">📱 Android & Kernel Developer | 💻 AI/ML Learner | 🎓 Student at Andhra Polytechnic</h3>
 
 <p align="center">
