@@ -7,8 +7,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Student+Developer;Android+ROM+Porter+%7C+Kernel+Tweaker;Learning+AI%2C+ML%2C+Cloud+and+More" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=8E75B2&center=true&vCenter=true&width=550&height=60&lines=HARUN;Android+%7C+Kernel+Developer;ROM+Porter+%7C+System+Programmer;Gen+AI+Explorer+%E2%9C%A8+Inspired+by+%238E75B2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=8E75B2&center=true&vCenter=true&width=550&height=60&lines=HARUN;Android+%7C+Kernel+Developer;ROM+Porter+%7C+System+Programmer" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gen%20AI%20Explorer-✨-FF4B2B?style=for-the-badge&logoColor=white&labelColor=4B79FF&color=red" />
+</p>
+
 
 
 ---
