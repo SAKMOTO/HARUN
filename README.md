@@ -6,7 +6,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Student+Developer;Android+ROM+Porter+%7C+Kernel+Tweaker;Learning+AI%2C+ML%2C+Cloud+and+More" alt="Typing SVG" />
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F79E&center=true&vCenter=true&width=500&height=60&lines=Harun;Android+Developer;Kernel+Engineer;ROM+Porter;AI+%26+ML+Learner" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E75B2&center=true&vCenter=true&width=500&height=60&lines=Harun;Android+Developer;Kernel+Engineer;ROM+Porter;Gen+AI+Explorer+%7C+%23+8E75B2" alt="Typing SVG" />
+</p>
+
 
 ---
 
