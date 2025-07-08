@@ -14,10 +14,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0000FF&center=true&vCenter=true&width=550&height=60&lines=HARUN;Android+%7C+Kernel+Developer;ROM+Porter+%7C+System+Programmer" alt="Typing SVG" />
 </p>
 
-
-
-
-
 ---
 
 ### 🚀 About Me
@@ -63,28 +59,27 @@
 - ☁️ **Cloud Computing**, **Network Design**, Network Admin
 
 ---
-#### **still learning **
 
+#### 🧠 Still Learning...
 
-#### 📈 GitHub Stats
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harun786&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKMOTO&layout=compact&theme=tokyonight" alt="Top Langs" />
+ <br/>
+ <img src="https://github-readme-stats.vercel.app/api?username=SAKMOTO&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
 ---
 
 ### 🔗 Connect with Me
 
-- 📫 Telegram: [@yourtelegram](https://t.me/yourtelegram)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) *(optional)*  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) *(optional)*
+- 📫 Telegram: [@SAKMOTO](https://t.me/SAKMOTO)
+- 💼 LinkedIn: [linkedin.com/in/harun786](https://linkedin.com/in/harun786) *(edit if needed)*
+- 🌐 Portfolio: [sakmoto.dev](https://sakmoto.dev) *(optional, edit if needed)*
 
 ---
 
 > “Build fast. Fail smart. Learn always. Code forever.”
-
-
-
