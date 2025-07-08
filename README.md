@@ -10,9 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=8E75B2&center=true&vCenter=true&width=550&height=60&lines=HARUN;Android+%7C+Kernel+Developer;ROM+Porter+%7C+System+Programmer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Gen%20AI%20Explorer-✨-FF4B2B?style=for-the-badge&logoColor=white&labelColor=4B79FF&color=red" />
-</p>
 
 
 
