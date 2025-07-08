@@ -4,8 +4,9 @@
 <h3 align="center">📱 Android & Kernel Developer | 💻 AI/ML Learner | 🎓 Student at Andhra Polytechnic</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Student+Developer;Android+ROM+Porter+%7C+Kernel+Tweaker;Learning+AI%2C+ML%2C+Cloud+and+More" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFF00&center=true&vCenter=true&width=500&height=60&lines=Student+Developer" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=8E75B2&center=true&vCenter=true&width=550&height=60&lines=HARUN;Android+%7C+Kernel+Developer;ROM+Porter+%7C+System+Programmer" alt="Typing SVG" />
 </p>
