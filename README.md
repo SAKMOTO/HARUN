@@ -1,4 +1,4 @@
-# HARUN
+# INTRODUCING MYSELF
 
 <h1 align="center">
   Hi 👋, I'm HARUN
