@@ -69,7 +69,7 @@
 #### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Langs">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harun786&layout=compact&theme=tokyonight" alt="Top Langs" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
